@@ -3,6 +3,6 @@ declare const global: MyGlobal
 
 class MyGlobal {
     jeiRuntime: Internal.JeiRuntime
-    test(x: string): void
+    XJPM_新建屏幕(id: number,name:string): Internal.Screen
     hello(): string
 }
